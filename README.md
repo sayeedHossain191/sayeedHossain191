@@ -13,7 +13,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 📫 How to reach me: email 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sayeedHossain191)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Sayeed Sagor)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sayeedHossain191)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/SayeedSagor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sayeedhossain360/)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
@@ -26,6 +26,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/sayeedHossain191)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sayeedHossain191)  
+
+
 
 
 
